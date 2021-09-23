@@ -15,13 +15,13 @@
 
 https://user-images.githubusercontent.com/59969985/134561277-b99c90e6-977e-4712-a1ba-43f2edad18cc.mp4
 
-## :pushpin: Conteúdo
+# :pushpin: Conteúdo
 
 - [Tecnologias](#computer-tecnologias)
 - [Como Executar](#construction_worker-executando)
 - [Licença](#closed_book-licença)
 
-## :computer: Tecnologias
+# :computer: Tecnologias
 
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/59969985/134561277-b99c90e6-977e-4712-
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [JSON Server](https://github.com/typicode/json-server)
 
-## :construction_worker: Executando
+# :construction_worker: Executando
 
 ```bash
 ## Clonar o repositório
@@ -72,6 +72,6 @@ npm run start
 yarn start
 ```
 
-## :memo: Licença
+# :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
